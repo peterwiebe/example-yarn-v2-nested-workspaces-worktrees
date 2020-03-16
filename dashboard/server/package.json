@@ -1,0 +1,8 @@
+{
+  "name": "@workspaces/dashboard-server",
+  "version": "1.0.0",
+  "description": "dashboard server project",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}

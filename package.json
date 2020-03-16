@@ -1,0 +1,13 @@
+{
+  "name": "workspaces",
+  "version": "1.0.0",
+  "description": "testing out nested worktrees",
+  "main": "index.js",
+  "author": "Peter Wiebe <pjwiebe@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "common",
+    "dashboard"
+  ]
+}

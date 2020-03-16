@@ -1,0 +1,8 @@
+{
+  "name": "@workspaces/common",
+  "version": "1.0.0",
+  "description": "common utilities between projects",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@workspaces/dashboard",
+  "version": "1.0.0",
+  "description": "dashboard worktree",
+  "main": "index.js",
+  "author": "Peter Wiebe <pjwiebe@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
